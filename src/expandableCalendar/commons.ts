@@ -1,4 +1,4 @@
-export const todayString = 'today';
+export const todayString = 'Aujourd\'hui';
 
 export enum UpdateSources {
   CALENDAR_INIT = 'calendarInit',
